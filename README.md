@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Michał, more commonly known as "CraXell". I am a teenager and i write ✨bad✨ code and projects.
+
+
 
 <!--
 **CraXell/CraXell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
